@@ -58,7 +58,7 @@
     "@rjsf/utils": "5.15.0",
     "@rjsf/validator-ajv8": "5.15.1",
     "@tiptap/core": "^2.3.0",
-    "@tiptap/extension-link": "^2.3.0",
+    "@tiptap/extension-link": "^2.10.4",
     "@tiptap/extension-placeholder": "^2.3.0",
     "@tiptap/extension-table": "^2.3.0",
     "@tiptap/extension-table-cell": "^2.3.0",
